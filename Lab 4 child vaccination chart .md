@@ -1,6 +1,7 @@
 # lab 4: child vacation chart 
 
 ``` python 
+
 patients = {}
 
 def insert (record_number, First_name, Last_name, Birth_month):
@@ -56,5 +57,3 @@ print(patients)
 
 ```
 
-
-# Verification 
