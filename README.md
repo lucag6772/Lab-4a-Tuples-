@@ -16,7 +16,7 @@ print("My tuple:", my_tuple)
 # 1b
 my_tuple = (10, 20, 30, 40, 50)
 temp_list = list(my_tuple)
-temp_list[2] = 99   # modifying element
+temp_list[2] = 99  
 my_tuple = tuple(temp_list)
 print("Modified tuple:", my_tuple)
 ```
