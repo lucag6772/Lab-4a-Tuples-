@@ -83,7 +83,7 @@ It has
 ```python
 # 2a
 d_orig = {123: "Coconut"}
-d_copy = d_orig.copy()   # create an independent copy
+d_copy = d_orig.copy()  
 
 d_copy[123] = "Mango"
 
