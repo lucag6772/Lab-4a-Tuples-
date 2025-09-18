@@ -4,11 +4,11 @@
 
 patients = {}
 
-def insert (record_number, First_name, Last_name, Birth_month):
+def insert (record_number, First_name, Last_name, Vac_month):
   patients[record_number] = {
     "First_name": First_name,
     "Last_name": Last_name,
-    "Birth_month": Birth_month
+    "Vac_month": Vac_month
 }
 
 # John Smith's vac schedule 
