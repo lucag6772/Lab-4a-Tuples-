@@ -57,3 +57,5 @@ print(patients)
 
 ```
 
+# video 
+https://drive.google.com/file/d/1lAm9iLtuEb7hSxdbv9Wyoop1BPt_Tg86/view?usp=sharing 
