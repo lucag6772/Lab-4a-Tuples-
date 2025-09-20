@@ -52,7 +52,7 @@ vaccines2 = {
 
 insert("R002", "Olivia", "James", vaccines2)
 
-print("\nPatient recors after adding second patient:")
+print("\nPatient records after adding second patient:")
 print(patients)
 
 ```
