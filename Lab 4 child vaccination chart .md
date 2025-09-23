@@ -11,6 +11,7 @@ def insert (record_number, First_name, Last_name, Vac_month):
     "Vac_month": Vac_month
 }
 
+def main():
 # John Smith's vac schedule 
 
 vaccines1 = {
@@ -54,6 +55,9 @@ insert("R002", "Olivia", "James", vaccines2)
 
 print("\nPatient records after adding second patient:")
 print(patients)
+
+if __namee__ == "__main__":
+  main()
 
 ```
 
